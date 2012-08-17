@@ -1,0 +1,25 @@
+C:\Users\Tyler\AppData\Local\Temporary Projects\Bitcoin import key\bin\Debug\Bitcoin import key.exe
+C:\Users\Tyler\AppData\Local\Temporary Projects\Bitcoin import key\bin\Debug\Bitcoin import key.pdb
+C:\Users\Tyler\AppData\Local\Temporary Projects\Bitcoin import key\bin\Debug\Bitcoin import key.xml
+C:\Users\Tyler\AppData\Local\Temporary Projects\Bitcoin import key\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tyler\AppData\Local\Temporary Projects\Bitcoin import key\obj\x86\Debug\Bitcoin_import_key.Form1.resources
+C:\Users\Tyler\AppData\Local\Temporary Projects\Bitcoin import key\obj\x86\Debug\Bitcoin_import_key.Resources.resources
+C:\Users\Tyler\AppData\Local\Temporary Projects\Bitcoin import key\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Tyler\AppData\Local\Temporary Projects\Bitcoin import key\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Tyler\AppData\Local\Temporary Projects\Bitcoin import key\obj\x86\Debug\Bitcoin import key.exe
+C:\Users\Tyler\AppData\Local\Temporary Projects\Bitcoin import key\obj\x86\Debug\Bitcoin import key.xml
+C:\Users\Tyler\AppData\Local\Temporary Projects\Bitcoin import key\obj\x86\Debug\Bitcoin import key.pdb
+C:\Users\Tyler\AppData\Local\Temporary Projects\Bitcoin import key\bin\Debug\Bitcoin import key.exe.config
+C:\Users\Tyler\AppData\Local\Temporary Projects\Bitcoin import key\obj\x86\Debug\Bitcoin_import_key.Form2.resources
+D:\Documents\Coding\Projects\Bitcoin import key\Bitcoin import key\bin\Debug\Bitcoin import key.exe.config
+D:\Documents\Coding\Projects\Bitcoin import key\Bitcoin import key\obj\x86\Debug\Bitcoin import key.exe
+D:\Documents\Coding\Projects\Bitcoin import key\Bitcoin import key\obj\x86\Debug\Bitcoin import key.xml
+D:\Documents\Coding\Projects\Bitcoin import key\Bitcoin import key\obj\x86\Debug\Bitcoin import key.pdb
+D:\Documents\Coding\Projects\Bitcoin import key\Bitcoin import key\bin\Debug\Bitcoin import key.exe
+D:\Documents\Coding\Projects\Bitcoin import key\Bitcoin import key\bin\Debug\Bitcoin import key.pdb
+D:\Documents\Coding\Projects\Bitcoin import key\Bitcoin import key\bin\Debug\Bitcoin import key.xml
+D:\Documents\Coding\Projects\Bitcoin import key\Bitcoin import key\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Coding\Projects\Bitcoin import key\Bitcoin import key\obj\x86\Debug\Bitcoin_import_key.Form1.resources
+D:\Documents\Coding\Projects\Bitcoin import key\Bitcoin import key\obj\x86\Debug\Bitcoin_import_key.Resources.resources
+D:\Documents\Coding\Projects\Bitcoin import key\Bitcoin import key\obj\x86\Debug\ResGen.read.1.tlog
+D:\Documents\Coding\Projects\Bitcoin import key\Bitcoin import key\obj\x86\Debug\ResGen.write.1.tlog
